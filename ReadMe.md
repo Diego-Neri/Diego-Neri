@@ -1,13 +1,11 @@
-### Olá, Seja bem vindo(a) 💫 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&letterSpacing=&pause=1000&color=1F18BE&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=My+name+is+Diego+Neri+;I+am+FullStack+Developer)](https://git.io/typing-svg)
 
-- 🌱👨🏿‍💻 Estudante de Análise e Desenvolvimento de Sistemas.
-# 
+ 
 <div align="center">
   <a href="https://github.com/Diego-Neri/">
     <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Diego-Neri&show_icons=true&theme=dark"/>
     <img height="170px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Neri&layout=compact&langs_count=7&theme=dark"/></a>
 </div>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&letterSpacing=&pause=1000&color=1F18BE&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=My+name+is+Diego+Neri+;I+am+FullStack+Developer)](https://git.io/typing-svg)
 
 
  <div align="center" > 
