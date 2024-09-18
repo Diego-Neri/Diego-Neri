@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=50&color=1F18BE&center=true&vCenter=true&random=&width=435&height=58&=center=true=lines=My+name+is+Diego+Neri+;I+am+FullStack+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&duration=4000&pause=300&color=265BFF&center=true&width=435&lines=My+name+is+Diego+Neri;I+am+FullStack+Developer)](https://git.io/typing-svg)
 
 
  
