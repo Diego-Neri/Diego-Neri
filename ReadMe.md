@@ -14,12 +14,15 @@
  <div align="center" > 
    
 #### 💻Tech Stack
-<img src="https://img.shields.io/badge/-python-%3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" target="_blank"></a> 
+ 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" target="_blank"></a> 
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 <img src="https://img.shields.io/badge/-javascript-%23333?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)" target="_blank"></a>
 <img src="https://img.shields.io/badge/-html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/-css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)" target="_blank"></a> 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
 </div>
 
      
