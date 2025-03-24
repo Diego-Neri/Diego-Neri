@@ -33,7 +33,7 @@
  
 <div align="center" > 
   <a href = "mailto:diegoneri500@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/mayara-c-7a5b041b0?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2BWHtcsxgRBG6%2BmdsPMvFXw%3D%3D](https://www.linkedin.com/in/diego-neri500/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diegogabrielneri/)
  
 </div>
 
