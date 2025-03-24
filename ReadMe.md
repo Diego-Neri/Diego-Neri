@@ -22,6 +22,8 @@
 <img src="https://img.shields.io/badge/-html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/-css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)" target="_blank"></a> 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
 
 </div>
 
