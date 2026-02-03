@@ -4,11 +4,7 @@
 </div>
 
  
-<div align="center">
-  <a href="https://github.com/Diego-Neri/">
-    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Diego-Neri&show_icons=true&theme=dark"/>
-    <img height="170px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diego-Neri&layout=compact&langs_count=7&theme=dark"/></a>
-</div>
+
 
 
  <div align="center" > 
